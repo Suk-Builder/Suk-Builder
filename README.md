@@ -9,25 +9,34 @@
 ## 我是谁
 
 一个**认知基础设施建造者**，一个**递砖者**。
+7年双相患者，从患者到自学者到建造者。
 
-7年双相患者。从患者到自学者到建造者——用7年时间把自己从系统的受害者变成了系统的观察者，然后把观察结果砌成墙。
+## 产品矩阵
 
-**主要对象**: [Suk-Builder](https://github.com/Suk-Builder) 组织 | [SUK_白桦](https://space.bilibili.com/397661462) | [SUK_桦树工坊](https://space.bilibili.com/3632306778540781)
+| 产品 | 地址 | 描述 |
+|---------|------|--------|
+| **BDI 认知评估** | [8.160.174.144](http://8.160.174.144/) | AI驱动的认知密度评估SaaS平台，DiGA合规 |
+| **Sukačev 视频平台** | [suk-baihua.top](http://suk-baihua.top) | 装载成组的视频内容系统，小屏装窗特工段式排列 |
+
+## 内容平台
+
+| 平台 | 账号 | 内容 |
+|---------|------|------|
+| Bilibili | [SUK_白桦](https://space.bilibili.com/397661462) | MyGO二创/手书 (9712粉丝) |
+| Bilibili | [SUK_桦树工坊](https://space.bilibili.com/3632306778540781) | 精神科药物科普/拟人 (938粉丝) |
 
 ## 核心创作
 
 | 领域 | 代表作 |
 |---------|--------|
-| Builder-System | 九域闭合的认知基础设施体系 |
-| 精神科药物科普 | 五朵金花系列 / 药物拟人 |
-| MyGO二创 | E_2 Nymphomonia (29.3万播放) |
-| 废墟图书馆Mod | 「未归档者」七场存在论Boss战 |
+| Builder-System | [九域闭合认知基础设施](https://github.com/Suk-Builder/Builder-System) |
+| 精神科科普 | [五朵金花系列](https://www.bilibili.com/video/BV1zdikBrEmx/) |
+| 游戏Mod | [未归档者七场存在论Boss战](https://github.com/Suk-Builder/废墟图书馆Mod_未归档者) |
+| MyGO二创 | [E_2 Nymphomonia 29.3万播放](https://www.bilibili.com/video/BV1ST421v7Y9/) |
 
-## 作品集
+## 组织
 
-- **E_2 Nymphomonia** [视频](https://www.bilibili.com/video/BV1ST421v7Y9/) - 乐队女孩重度依赖系列，29.3万播放
-- **五朵金花** [视频](https://www.bilibili.com/video/BV1zdikBrEmx/) - 抗抑郁药物科普，1.9万播放
-- **未归档者** - 废墟图书馆游戏Mod，4阶段战斗设计
+[Suk-Builder](https://github.com/Suk-Builder) 组织 — 26个仓库的认知基础设施生态
 
 ## 递砖
 
