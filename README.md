@@ -15,7 +15,7 @@
 
 | 产品 | 地址 | 描述 |
 |---------|------|--------|
-| **BDI 认知评估** | [8.160.174.144](http://8.160.174.144/) | AI驱动的认知密度评估SaaS平台，DiGA合规 |
+| **BDI 认知评估** | [bdi-health.com](http://bdi-health.com/) | AI驱动的认知密度评估SaaS平台，DiGA合规 |
 | **Sukačev 视频平台** | [suk-baihua.top](http://suk-baihua.top) | 装载成组的视频内容系统，小屏装窗特工段式排列 |
 
 ## 内容平台
