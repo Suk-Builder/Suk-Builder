@@ -21,22 +21,23 @@
 ## 内容平台
 
 | 平台 | 账号 | 内容 |
-|---------|------|------|
+|---------|------|--------|
 | Bilibili | [SUK_白桦](https://space.bilibili.com/397661462) | MyGO二创/手书 (9712粉丝) |
 | Bilibili | [SUK_桦树工坊](https://space.bilibili.com/3632306778540781) | 精神科药物科普/拟人 (938粉丝) |
 
 ## 核心创作
 
 | 领域 | 代表作 |
-|---------|--------|
+|---------|---------|
 | Builder-System | [九域闭合认知基础设施](https://github.com/Suk-Builder/Builder-System) |
 | 精神科科普 | [五朵金花系列](https://www.bilibili.com/video/BV1zdikBrEmx/) |
 | 游戏Mod | [未归档者七场存在论Boss战](https://github.com/Suk-Builder/废墟图书馆Mod_未归档者) |
 | MyGO二创 | [E_2 Nymphomonia 29.3万播放](https://www.bilibili.com/video/BV1ST421v7Y9/) |
+| **递砖者之书** | [《大炼丹时代的认知密度法则》15万字](https://github.com/Suk-Builder/the-brick-deliverer) |
 
 ## 组织
 
-[Suk-Builder](https://github.com/Suk-Builder) 组织 — 26个仓库的认知基础设施生态
+[Suk-Builder](https://github.com/Suk-Builder) 组织 — **27个仓库**的认知基础设施生态
 
 ## 递砖
 
